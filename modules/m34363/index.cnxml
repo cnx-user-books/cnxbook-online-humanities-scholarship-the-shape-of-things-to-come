@@ -1,0 +1,125 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Schedule of Events</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34363</md:content-id>
+  <md:title>Schedule of Events</md:title>
+  <md:abstract/>
+  <md:uuid>2c09f3ea-bac9-40a4-9e5b-1d2f4f2f9eab</md:uuid>
+</metadata>
+
+<content>
+
+<para id="buybutton-para"><media id="buybutton" alt="The Shape of Things to Come -- buy from Rice University Press.">
+		  <image mime-type="image/jpeg" src="http://rup.rice.edu/image/cnx_images/shapes-buybutton.jpg">
+		  <param name="style" value="padding: 0px; margin-left: 5px; border: solid; border-width:1px; border-color:#002469; float: right; cursor: pointer;"/>
+		<param name="onclick" value="window.open('http://my.qoop.com/store/Rice-University-Press-3111075350609104/Online-Humanities-Scholarship--The-Shape-of-Things-to-Come-by-Jerome-McGann--Ed--76713766116506/','','');"/>
+	<param name="onmouseover" value="document.body.style.cursor = 'hand';"/> 
+	<param name="onmouseout" value="document.body.style.cursor = 'default';"/>
+</image>
+
+	  </media>
+</para>
+
+
+    <section id="id1170343367330">
+      
+      <para id="id1170349569032">All sessions will be held in the Auditorium of the Harrison Institute and Special Collections Library at the University of Virginia.</para>
+    </section>
+    <section id="id1170330751078">
+      <title>Friday, March 26</title>
+      <section id="id1170334944282">
+        <title>9:00:Opening Remarks</title>
+        <para id="id1170330325317">James Hilton, Vice-President and Chief Information Officer, University of Virginia</para>
+        <para id="id1170339838533">Karin Wittenborg, University Librarian, University of Virginia </para>
+        <para id="id1170330327098">Jerome McGann, John Stewart Bryan Professor of English, University of Virginia</para>
+      </section>
+      <section id="id1170339171303">
+        <title>10:30: Allison Muri, The Grub Street Project</title>
+        <para id="id1170330243691">Moderator: Andy Stauffer </para>
+        <para id="id1170336937255">Respondents: Robert Darnton, Laura Mandell</para>
+        <section id="id1170330822882">
+          <title>12:00: Lunch</title>
+          <para id="para-id1170330822882">
+            <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+          </para>
+        </section>
+      </section>
+      <section id="id1170330327676">
+        <title>1:30:Greg Nagy, Homer MultiText Project</title>
+        <para id="id1170334228931">Moderator: Michael Suarez </para>
+        <para id="id1170330243919">Respondents: Michael Moss, Hans Walter Gabler</para>
+      </section>
+      <section id="id1170334758230">
+        <title>3:00:Roger Bagnall, Integrating Digital Papyrology</title>
+        <para id="id1170342043283">Moderator: Joe Gilbert </para>
+        <para id="id1170334815450">Respondents: Greg Crane, Peter Robinson</para>
+        <section id="id1170334797282">
+          <title>6:45:Dinner, The Colonnade Club (Drinks 6:00)</title>
+          <para id="para-id1170334797282">
+            <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+          </para>
+        </section>
+      </section>
+    </section>
+    <section id="id1170330321600">
+      <title>Saturday, March 27</title>
+      <section id="id1170335709490">
+        <title>9:00:Alan Burdette, Evia Digital Archive Project</title>
+        <para id="id1170336079714">Moderator: Dana Wheeles </para>
+        <para id="id1170330244788">Respondents: John Unsworth John Rink</para>
+      </section>
+      <section id="id1170331022501">
+        <title>10:30: Project Structure and Project Sustainability</title>
+        <para id="id1170330240088">Moderator: Bethany Nowviskie </para>
+        <para id="id1170330329655">Panelists: Christine Madsen (for Paolo D’Iorio), Jennifer Edmond, Susan Schreibman</para>
+        <section id="id1170335797768">
+          <title>12:00: Lunch</title>
+          <para id="para-id1170335797768">
+            <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+          </para>
+        </section>
+      </section>
+      <section id="id1170339814832">
+        <title>1:30:Todd Presner, Hypercities Project: Berlin and Los Angeles</title>
+        <para id="id1170330325133">Moderator: David Germano </para>
+        <para id="id1170330165647">Respondents: Stephen Plog, Matthew G. Kirschenbaum</para>
+      </section>
+      <section id="id1170361743591">
+        <title>3:00:Kenneth M. Price, Civil War Washington Project and The Walt Whitman Archive</title>
+        <para id="id1170342188350">Moderator: Stephen Railton </para>
+        <para id="id1170330324929">Respondents: Dan Cohen, Timothy B. Powell</para>
+        <section id="id1170357507640">
+          <title>6:45:Dinner, The Colonnade Club (Drinks 6:00)</title>
+          <para id="para-id1170357507640">
+            <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+          </para>
+        </section>
+      </section>
+    </section>
+    <section id="id1170330750364">
+      <title>Sunday, March 28</title>
+      <section id="id1170330327860">
+        <title>9:00: Penny Kaiserlian, Rotunda</title>
+        <para id="id1170353477160">Moderator: Worthy Martin </para>
+        <para id="id1170335942359">Respondents: Paul Courant, Michael Keller</para>
+      </section>
+      <section id="id1170343571441">
+        <title>10:30: Intersystems: Publication, Research, Infrastructure</title>
+        <para id="id1170339096710">Moderator: Jerome McGann </para>
+        <para id="id1170331216312">Panelists: Chuck Henry, Geoffrey Rockwell</para>
+      </section>
+      <section id="id1170330325269">
+        <title>12:00: Raymond G. Siemens</title>
+        <para id="para-id1170330325269">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+      <section id="id1170336525507">
+        <title>Closing Remarks</title>
+        <para id="para-id1170336525507">
+          <!--Empty sections are illegal in CNXML 0.5.  This empty paragraph is a place holder that was added as a byproduct of the word importer.-->
+        </para>
+      </section>
+    </section>
+  </content>
+</document>

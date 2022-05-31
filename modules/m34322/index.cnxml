@@ -1,0 +1,336 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Non-Consuming Relevance: “The Grub Street Project”</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34322</md:content-id>
+  <md:title>Non-Consuming Relevance: “The Grub Street Project”</md:title>
+  <md:abstract/>
+  <md:uuid>806c773b-fe5f-484d-9eb0-4ab3e02dc95d</md:uuid>
+</metadata>
+
+<content>
+<para id="buybutton-para"><media id="buybutton" alt="The Shape of Things to Come -- buy from Rice University Press.">
+		  <image mime-type="image/jpeg" src="http://rup.rice.edu/image/cnx_images/shapes-buybutton.jpg">
+		  <param name="style" value="padding: 0px; margin-left: 5px; border: solid; border-width:1px; border-color:#002469; float: right; cursor: pointer;"/>
+		<param name="onclick" value="window.open('http://my.qoop.com/store/Rice-University-Press-3111075350609104/Online-Humanities-Scholarship--The-Shape-of-Things-to-Come-by-Jerome-McGann--Ed--76713766116506/','','');"/>
+	<param name="onmouseover" value="document.body.style.cursor = 'hand';"/> 
+	<param name="onmouseout" value="document.body.style.cursor = 'default';"/>
+</image>
+
+	  </media>
+</para>
+
+
+    <para id="id1172436527893">Non-Consuming Relevance: “The Grub Street Project”</para>
+    <para id="id1172436283996">Laura Mandell</para>
+    <para id="id1172436563494"> To summarize my response to Professor Muri at the outset: yes. And now onto some details. I am director of a project that has been modeled upon and is partly sponsored by NINES (our host for this event), a project mentioned in Professor Muri’s excellent paper. It is called 18thConnect, and, like NINES, it will aggregate and peer-review digital projects. 18thConnect differs from NINES in one major way, however: ECCO. The Eighteenth-Century Collections Online database, mentioned by Professor Muri, contains page-images of 140,000 texts ranging in size from a two-page pamphlet to the 1500-page <emphasis effect="italics">Clarissa</emphasis>. The Text Creation Partnership has double-keyed 1,809 of these texts and then run out of money. 18thConnect has a development team at the University of Illinois, headed by Robert Markley. They are augmenting an OCR program by designing it to read eighteenth-century texts, specifically. After meeting with Martin Mueller a few weeks ago, I have come to believe that 18thConnect can play a crucial part in creating—not just an acceptable level of error in text files corresponding to ECCO’s page images, but actually a vital, immense dataset of eighteenth-century texts, minable by machines, word-searchable by all. That thrilling prospect will involve not just OCR but automated TEI tagging, automated linguistic markup, automated dictionary look-up, etc., etc. I attach at the end of this essay a table of all the organizations that could be involved in producing this vast data set and that could benefit from the text-cleaning process. If Martin Mueller’s Project 2015 really works, as I believe it will, new kinds of knowledge will come from textual data that will convince our institutions of the value of text as data, which will provide, as Professor Muri so aptly stated, the ground for making digital humanities a going concern. Academic institutions must become consumers clamoring for textual data if the humanities are to be relevant in the twenty-first century.</para>
+    <para id="id1172440193500"> The phrase “consuming relevance”—almost quoted in the title to my response— comes from Frank Kermode’s book <emphasis effect="italics">An Appetite for Poetry</emphasis> (1989). He says of the canon that it gives us books of timeless, “consuming relevance,” texts that have meanings and messages that were applicable to the time in which they were written but continue to be relevant and perhaps even prophetic, though the prophecy could of course be of the self-fulfilling sort arising as a consequence of veneration. Less abstractly, did Shakespeare understand modern psychology or partly produce it, a question of concern to Harold Bloom.<footnote id="id1172439160852"><emphasis effect="italics">Shakespeare: The Invention of the Human</emphasis> (New York: Penguin Putnam, 1998).</footnote> But “Shakespeare’s” production of our inner lives wasn’t his, as attendees at this conference know. Insofar as we have been shaped by Shakespearean drama, it has been through the mechanisms of bardolatry instantiated in the eighteenth century and mediated by new print technologies that made it possible for Shakespeare’s work to be disseminated beyond his wildest imaginings.<footnote id="id1172444339697">Margareta de Grazia, <emphasis effect="italics">Shakespeare Verbatim: The Reproduction of Authenticity and the 1790 Apparatus</emphasis> (New York: Oxford University Press, 1991); Michael Dobson, <emphasis effect="italics">The Making of the National Poet: Shakespeare, Adaptation and Authorship, 1660-1769</emphasis> (New York: Oxford University Press, 1992).</footnote> The first modern editor and first modern apparatus materializes in the 1720s around <emphasis effect="italics">Hamlet</emphasis>.<footnote id="id1172439054706">See my “Special Issue: ‘Scholarly Editing in the Twenty-First Century’—A Conclusion,” <emphasis effect="italics">Literature Compass</emphasis> 7/2 (2010): 120–133, p. 125. </footnote></para>
+    <para id="id1172442492168"> However, a much newer technology is evoked by the phrase “non-consumption,” which my title almost quotes as well. The Google Research environment proposes to offer the “non-consumptive” use of texts, noted by John Unsworth, Lisa Spiro, and Don Waters in various essays and talks about the Google Settlement, anticipated and actual.<footnote id="id1172433194141">John Unsworth, Computational Work with Very Large Text Collections: Google Books, HathiTrust, the Open Content Alliance, and the Future of TEI," Text Encoding Initiative Consortium Annual Members' Meeting, Ann Arbor, Michigan, November 13, 2009 <link url="http://www3.isrl.illinois.edu/~unsworth/TEI.MMO9.pptx"><emphasis effect="bold">http://www3.isrl.illinois.edu/~unsworth/TEI.MMO9.pptx</emphasis></link>, accessed 1 March 2010; Lisa Spiro, <link url="http://digitalscholarship.wordpress.com/2009/02/24/digital-humanities-in-2008-ii-scholarly-communication-open-access/"><emphasis effect="bold">Digital Humanities in 2008, II: Scholarly Communication &amp; Open Access</emphasis></link><link url="http://digitalscholarship.wordpress.com/2009/02/24/digital-humanities-in-2008-ii-scholarly-communication-open-access/">http://digitalscholarship.wordpress.com/2009/02/24/digital-humanities-in-2008-ii-scholarly-communication-open-access/</link>, accessed 1 March 2010; Don Waters, “The Changing Role of Special Collections in Scholarly Communications,” Research Library Issues 267 (December 2009), <link url="http://tiny.cc/AC3QO">http://tiny.cc/AC3QO</link>, accessed 1 March 2010.</footnote> 18thConnect, like NINES, will provide an alternative to that research environment, one that has been constructed by scholars and librarians working together, a necessary competitor to Google. But as Professor Muri noted, we cannot give away proprietary texts such as those in Gale-Cengage’s ECCO catalogue. We have been given permission by Gale to ingest those texts into a search engine that allows for full-text searching and, we hope, data-mining. Users of 18thConnect will not be allowed to “consume”—i.e., <emphasis effect="italics">read</emphasis>—the ECCO texts, if their libraries do not subscribe to ECCO, but only to <emphasis effect="italics">use</emphasis> these texts, use-value somehow being imagined as completely distinct from the exchange-value that prompts consumption and production, library budgets and Gale-Cengage profits. The Grub Street Project provides another way of “using” texts: mapping them. And this cultural analysis of textual relevance via mapping will open up worlds of thought as yet undefined.</para>
+    <para id="id1172442757928"> As we move from the consuming relevance that prompted literary scholars to virtually memorize a circumscribed set of texts to the non-consumptive data-mining and mapping that will generate we-know-not-what-kinds of knowledge, there is another form of consumption dogging us, the kind of “consuming” mentioned by Professor Muri in this paper: “time-consuming” tasks. And when she uses the phrase, she describes what is happening for her at a university that sounds identical to my own. She talks about how her “research time is eaten up” by the multiple problems confronting the Grub Street Project, institutional, financial: ultimately her time is eaten up by public relations problems endemic to scholarly editing and the digital humanities. I want to reiterate all Professor Muri’s articulations of these problems, but I’ll do so in the most textually economical way, through anecdote.</para>
+    <para id="id1172433193425"> I was offered the opportunity to be a grant reviewer for SSHRC’s Image, Text, Sounds and Technology (ITST) projects in literary and textual studies, described in Professor Muri’s Appendix A. The quality not just of the projects but of the applications for these funds was astounding—it actually made me realize how far ahead the digital humanities are in Canada, but this isn’t the time for indulging in nationalistic sentiment. The participants on this adjudicating committee all knew that there would not be enough money to fund projects that should have been funded, no matter what. And in fact SSHRC is in the process of reorganizing the granting structure precisely in order to let the excellent digital humanities projects compete against traditional projects of lesser quality and value.<footnote id="id7862076">
+See SSHRC's discussions about restructuring: <link url="http://www.sshrc.ca/site/whatsnew-quoi_neuf/renewal-renouvellement-eng.aspx">http://www.sshrc.ca/site/whatsnew-quoi_neuf/renewal-renouvellement-eng.aspx</link>
+</footnote> SSHRC itself wishes to improve those statistics found in Appendix A: they would say yes to Professor Muri’s comments here. </para>
+    <para id="id1172442425894"> Second, MLA held a workshop designed and run by Susan Schreibman called “Evaluating Digital Work for Promotion and Tenure” (December 2009). Susan asked a number of us to create a tenure case for a digital humanist, real or imagined, in no more than four pages. She distributed these cases to a crowd of twenty-eight workshop participants, many of them chairs or deans, and then gave them a checklist to help facilitate discussions among groups as to whether each of these cases were tenurable. Dr. Schreibman noticed at the end of the workshop that these mock-tenure-case reviewers were complaining that the candidates for tenure had not adequately explained the research value of their digital work. We thought they had. When these non-digital humanists read the portions of these written case documents in which that value was explained, they complained about technical jargon, and skipped those sections. This is a really severe problem. Such misunderstanding can be corrected by peer-reviewing organizations such as NINES and 18thConnect, which would be able to instruct P&amp;T Committees on the value of a digital resource. My own Poetess Archive was the basis for promoting me to Full Professor because it has the NINES seal of approval. But there is a worse effect of this problem than the simple misunderstanding for which NINES or 18thConnect can compensate.</para>
+    <para id="id1172436253016"> Professor Muri describes comprehension problems for reviewers of grant applications as well as promotion and tenure. She never knows how much “basic education” in the digital humanities she must provide. What Dr. Schreibman and I discovered is that the basic education process in the mock-tenure cases took too much time and space, supplanting some of the discussion about research value. The same thing is happening right now in this response: I am writing about institutional issues and problems rather than discussing what kind of research questions might be askable and answerable in a literary mapping of London or data-mining textual artifacts of the eiughteenth century on a scale never yet thought possible.</para>
+    <para id="id1172433193450"> But it gets worse. Because so much textual space in articles, essays, books, P&amp;T documents, and grant applications is consumed by basic education, writers then justify their consumption of time and space by making untenable utopian claims about the value of the medium alone, regardless of what’s in it. Imagine Samuel Johnson describing all the possibilities of the periodical medium rather than writing his essays for the <emphasis effect="italics">Rambler</emphasis>, <emphasis effect="italics">Adventurer</emphasis>, and <emphasis effect="italics">Idler</emphasis>, which of course do such a media analysis but not upon the periodical medium as if it were contentless, as if <emphasis effect="italics">AutoTrader</emphasis> and <emphasis effect="italics">Atlantic Monthly</emphasis> were in any sense “the same thing.” On the contrary, Johnson’s personae, his ramblers and adventurers, idly produce snippets of text and achieve specific ideas both for the writer and his readers by consuming short periods of time. The whole infamous database debate in <emphasis effect="italics">PMLA</emphasis> was predicated on the idea that one could talk about the generic value of “a database” as if databases sustaining searches in the Whitman Archive were fundamentally “the same” as any use of a database.<footnote id="id1172433591160"><emphasis effect="italics">PMLA</emphasis> 122 (October 2007).</footnote> Such generalizations can spawn utopian, absurd discourse about the power of digital media that articles such as John Unsworth’s excellent “The Importance of Failure” are designed to counteract.<footnote id="id1172440546716">John Unsworth, “Documenting the Reinvention of Text: The Importance of Failure,” <emphasis effect="italics">Journal of Electronic Publishing</emphasis> 3, no. 2 (December 1997).</footnote></para>
+    <para id="id1172442541032"> Dean Unsworth’s essay lays out how to formulate digital projects that perform research as well as how to write about them. He says that digital projects (archives, editions, databases, etc.) ought to be able “to declare the terms of their potential success or failure”: chances are, such an explanation is only possible if the scholars really know what they are trying to accomplish. Moreover, <emphasis effect="italics">real</emphasis> research is only being done if the possibility of failure exists. “Failure” in the research proposal, “We want to know X,” means being able to conclude after research has been performed, “we can’t know X for the following reasons, but we can know Y.” Even interpretive projects follow this rule. One is frequently thrilled to find an essay or book that implements the most thorough analysis of a particular text via one particular methodology because it allows one to see how far that particular theoretical vantage point will take us, and where it breaks down or becomes uninteresting. And Dean Unsworth insists that the methodology be formulated and stated explicitly for such projects. Once again, no matter what the result, the digital project is a success insofar as it implements that methodology to the utmost and reveals what results can and cannot be had from it. However, Professor Unsworth admits, this kind of successful failure is not really suitable for institutional consumption: “Frankly, the only metric that is likely to matter to the universities that sponsor such projects is their success in attracting outside funding, but scholars, designers, and funding agencies ought to care about more than those simple intrinsic criteria.”</para>
+    <para id="id8230820"> When I teach literature classes, I say to my students that their essays are “essaies” in the French sense of the word: they are trials. I tell students, you’ll have your thesis, and you’ll try to prove it by quoting the text, but when you get to the end, if you no longer believe your thesis, that too is an excellent result. You tried it, and it didn’t work, and now you know that that idea, followed as far as you can take it, doesn’t work. What an amazing thing, really, to know that an idea you had while reading was really YOUR idea and not the author’s, that the idea is not in fact supported by the text. So, I say, if you don’t believe your thesis by the end of the paper, just say so, and I’ll give you an A. But are these the kind of concluding white-papers expected by the NEH? And there is no need to idealize the sciences: we know how much data has been falsified for purposes of funding and prestige. The social consumption of research sometimes contaminates it the way TB infects the lungs.</para>
+    <para id="id1172443167998"> So what kinds of success and failure (success from failure) do we want from mappings of the sort undertaken by Professor Muri? Her work parallels that undertaken by Fiona Black and Bertram Macdonald, the SSHRC-funded History of the Book in Canada project (<link url="http://www.hbic.library.utoronto.ca/home_en.htm">http://www.hbic.library.utoronto.ca/home_en.htm</link>). It begins as a series of published volumes about this history, and will end as a GIS project, mapping information given in the following chart:<footnote id="id1172445057112">This chart and the subsequent information about this project come from Bertrum H. MacDonald and Fiona A. Black, “Using GIS for Spatial and Temporal Analyses in Print Culture Studies,” <emphasis effect="italics">Social Science History</emphasis> 24.3 (Fall 2000): 505-535, p. 510.</footnote></para>
+    <figure id="id3510043">
+      <media id="id3510043_media" alt="">
+        <image mime-type="image/png" src="../../media/Picture 1-98e9.png" id="id3510043__onlineimage" height="407" width="600"/>
+      </media>
+    </figure>
+    <para id="id1172445834318">The books describing all this information are completed, published in six volumes and two languages by the University of Toronto Press. But the mapping is advancing with GIS technologies, in particular, a recent email from Fiona Black tells me, capitalizing upon new geo-referencing technologies that enable using historical maps.<footnote id="id1172438158935">Sun, Mar 7, 2010 at 4:43 PM.</footnote> MacDonald and Black argue in their article describing this undertaking that mapping information obtained from databases such as the British Book Trade Index (<link url="http://www.bbti.bham.ac.uk/">http://www.bbti.bham.ac.uk/</link>) enables answering the following kinds of questions, beautifully tabulated for us:</para>
+    <para id="id1172442693762">
+      <figure id="id1172436377415">
+        <media id="id1172436377415_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics1-4155.png" id="id1172436377415__onlineimage" height="353" width="599"/>
+        </media>
+      </figure>
+    </para>
+    <figure id="id1172443100386">
+      <media id="id1172443100386_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics2-bfea.png" id="id1172443100386__onlineimage" height="373" width="599"/>
+      </media>
+    </figure>
+    <para id="id1172449649312">(Black and Macdonald 514).</para>
+    <para id="id1172436445572">It is never the case that such questions canNOT be answered using books or databases—of course they can. However, one would have to extract the information from the media in which they appear. The mapping pre-extracts it, and lets you go on to think about what this information shows us, once mapped.</para>
+    <para id="id1172444824960"> Every medium abstracts information. Here, pictorially, are some abstractions of book history information:</para>
+    <table id="id1172439247726" summary="">
+      <tgroup cols="3">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <tbody>
+          <row>
+            <entry>
+              <media id="id1172439739705" alt="">
+                <image mime-type="image/png" src="../../media/graphics3-2b3a.png" height="131" width="194"/>
+              </media>
+            </entry>
+            <entry>
+              <media id="id6585732" alt="">
+                <image mime-type="image/jpg" src="../../media/graphics4.jpg" height="177" width="179"/>
+              </media>
+            </entry>
+            <entry>
+              <media id="id1172449862113" alt="">
+                <image mime-type="image/png" src="../../media/graphics5-ad73.png" height="150" width="142"/>
+              </media>
+            </entry>
+          </row>
+        </tbody>
+      </tgroup>
+    </table>
+
+<para id="id1171167022607">These particular views of the book history information—a closed book, a pile of microfilm, and a database search form—are lossy to say the least, obfuscating to say the most. Nothing can be known until you open the book, look at the microfilm, search the database.</para>
+    <figure id="id1171166842583">
+      <media id="id1171166842583_media" alt="">
+        <image mime-type="image/jpg" src="../../media/graphics1-2.jpg" id="id1171166842583__onlineimage" height="356" width="475"/>
+      </media>
+    </figure>
+    <para id="id1171163789393">These activities are trivial, you might say: the information is there. Is it? I want to trace one particular dataset that is “there” in many forms.</para>
+    <para id="id1171170907951"> Ian Maxted published the book (inadequately pictured above) called <emphasis effect="italics">The London Book Trades, 1775-1800: A Topographical Guide</emphasis> (Exeter: by the author, 1980). The book, clearly almost homemade, contains an introduction in typescript and a folder full of microfiche. The microfiche pictures a typed list of the names by street of those businesses involved in print culture, including the names of all who worked there. The typescript, we are told, was designed for Maxted’s own personal use to check the accuracy of information as he was proofing <emphasis effect="italics">The London Book Trades, 1775-1800</emphasis>, and subsequently given to the British Library so that they could derive cataloging information—identify printers and/or places from inadequate title pages. The microfiche images are almost undreadable:</para>
+    <para id="id1171163784260">
+      <figure id="id1171164501323">
+        <media id="id1171164501323_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics2-2.png" id="id1171164501323__onlineimage" height="426" width="599"/>
+        </media>
+      </figure>
+    </para>
+    <para id="id1171163789804">This pdf of that microfiche image had to transform it from negative to positive. Maxted recognized the problem of communicating this information in book form, and to me he almost seems like a soldier in the effort to overcome information loss due to affordances of the book medium, as can be seen clearly in the copyright information to be found in his <emphasis effect="italics">Topographical Guide</emphasis>:</para>
+    <para id="id1171164239494">© Ian Maxted, 1980</para>
+    <para id="id1171163902261">
+      <quote id="id1171163902261_quote" display="block">Subject to the provisions of the Copyright Acts any part of this publication may be reproduced, stored in a retrieval system, or transmitted in any form or by any means, electronic, mechanical, photocopying, recording or otherwise without the permission of the author.</quote>
+    </para>
+    <para id="id1171166614313">When I first read this sentence, I had to go back over it several times: surely I was missing the “not”—“Subject to the provisions of the Copyright Acts any part of this publication may NOT be reproduced . . . ,” but NOT is not there. A typo? The sentence following this one cleared up my confusion: “The author would however be interested to be informed of any major use made of the publication.” Maxted is saying, in effect, PLEASE reproduce this document in a more useful (“electronic”) form than I was able to do. He just wants his work to be effectively used. And aware of the terrible quality of the microfiche, Maxted went further, reproducing the work in its entirety with the rest of his works on a blog (http://bookhistory.blogspot.com/ ): </para>
+    <figure id="id3067888">
+      <media id="id3067888_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics3-2.png" id="id3067888__onlineimage" height="375" width="600"/>
+      </media>
+    </figure>
+    <para id="id1171162536280">Much of Maxted’s work forms the basis of the British Book Trade Index, as one can see from their sources, though Maxted’s <emphasis effect="italics">Topographical Guide</emphasis> is not (yet) listed among them. And yet, to what extent is the information even THERE, in that database? It is extractable, yes, but here is what one must go through to extract it:</para>
+    <para id="id1171162596119">
+      <figure id="id3043223">
+        <media id="id3043223_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics4-2.png" id="id3043223__onlineimage" height="444" width="603"/>
+        </media>
+      </figure>
+    </para>
+    <para id="id1171162845262">
+      <figure id="id1171174423181">
+        <media id="id1171174423181_media" alt="">
+          <image mime-type="image/png" src="../../media/graphics5-2.png" id="id1171174423181__onlineimage" height="502" width="600"/>
+        </media>
+      </figure>
+    </para>
+    <para id="id1171184766429">By carefully following these guidelines, I could extract Maxted’s street-by-street list of booksellers, engravers, printers, etc. The addresses are given in the returns, beautifully, indicating the dates an entity occupied a particular address, but entry by entry. To get to that list of addresses by date, you have to click on each element in the returned list—each printer, bookseller, etc. So of course to understand the relationships among these printers and booksellers, one thing I would need to do is to generate lists of where they were during specific dates—lists of street addresses by year.</para>
+    <para id="id1171172782848"> I submit, without further arguing, that Maxted’s <emphasis effect="italics">Topographical Guide</emphasis> breaks both the book and the database medium: they cannot be used to effectively convey this information. The information of topographical relatedness, and all the possible research questions that go with it (“Location,” “Condition,” “Trend,” “Pattern,” given by Black and MacDonald, above), are lost in those particular material abstractions of print culture. We can only know the topography of printing by hooking that database up to maps—historical maps, which, as in Todd Presner’s Hyper-Berlin, offer different maps and mappings for different times. What we need, in other words, is Allison Muri’s Grub Street project.</para>
+    <para id="id1171162548053"> Right now, Professor Muri has only begun to enter the information needed into the databases hooked up to her maps—currently, it is primarily the ESTC, I believe. What if we could know via map views specific to particular times precisely in which printing houses the feminist texts she maps here were printed? </para>
+    <figure id="id8240999">
+      <media id="id8240999_media" alt="">
+        <image mime-type="image/png" src="../../media/graphics6-2.png" id="id8240999__onlineimage" height="375" width="600"/>
+      </media>
+    </figure>
+    <para id="id1171162868851">What other kinds of texts were printed by the same printer and sold by the same bookseller? What collections of poetry came from those houses (and now I’m imagining linking my own Poetess Archive Database up to the Grub Street project), and whom did they include?</para>
+    <para id="id1171177338485"> Professor Muri’s own idea is to go beyond even these socio-economic mappings to trace what she calls “patterns of literary motions”:</para>
+    <para id="id1171162925886">
+      <quote id="id1171162925886_quote" display="block">What might we discover if we map the “low-culture” of Grub Street communications alongside the “higher-order” communications of canonical authors . . . ? What are the relationships of shared, pirated, public, and freely-exchanged communications to furthering and encouraging practices of public creativity and knowledge? My preliminary task is to understand the passage of texts and books through the physical network (the streets) and the cultural network (the literature) of eighteenth-century London to see if I can gain insight into patterns of literary motions—the motions of texts, authors, books, and booksellers.<emphasis effect="italics"><footnote id="id1171174002882">Allison Muri, “The Technology and Future of the Book: What a Digital ‘Grub Street’ can tell us about Communications, Commerce, and Creativity,” in <emphasis effect="italics">Producing the Eighteenth-Century Book: Writers and Publishers in England, 1650-1800</emphasis>, ed. Laura Runge, Pat Rogers (Newark: Univ. of Delaware Press, 2009), pp. 235-251,</footnote></emphasis></quote>
+    </para>
+    <para id="id1171166100472">I want to see what that project can show, and—to get back to John Unsworth’s notion of successful failure—what it cannot show. That is, what among those literary motions must be mapped in a different way, in a way other than through physical geography, and what kinds of mappings do we already have that abstract that information in more or less lossy form?<footnote id="id5439064">Is the table of contents such a “map”? See Laura Mandell, “Putting Contents on the Table,” <emphasis effect="italics">Poetess Archive Journal</emphasis> 1.1 (2007) <link url="http://unixgen.muohio.edu/~poetess/PAJournal/index.html">http://unixgen.muohio.edu/~poetess/PAJournal/index.html</link>. One of Alan Liu’s classes re-invented the tables of contents of specific anthologies as geographical maps of authors’ locations: what could we see if we did such a thing on a large scale?</footnote></para>
+    <para id="id1171162721114"> To summarize and conclude: I want to know what happens when eighteenth-century London is mapped with texts and words, and spaces contextualized by prosopographies, biographies, and fictions. How does reading differ when spatialized and so topographically rendered rather than anthologically connected? What kinds of information lurk in the format, skewing the form by (mis)placing the observer? And then, to switch to possible research questions opened up by 18thConnect’s burgeoning data set . . . what kinds of “genres” appear on the scene when algorithms search among huge bodies of texts for semantic regularities or morphological similarities based on documentary forms or syntactic structure? What difference does it make to ask particular research questions when examining hundreds of thousands of eighteenth-century texts?—and what happens to such questions when they are reconfigured to be asked in terms of topographical orderings of cultural interactions? What difference do space and scale make? These should be our consuming questions as we speed along our Grub Street, the digital highway.<footnote id="id1171162526137">For an excellent, thought-provoking account of this equation, see Muri 238.</footnote></para>
+    <section id="id8228345">
+      <title>Appendix I: 18thConnect: An Update</title>
+      <para id="id1171165936018">temporary address for 18thConnect, prior to launch in July 2010: <link url="http://unixgen.muohio.edu/~poetess/NINES/18thConnect.html">http://unixgen.muohio.edu/~poetess/NINES/18thConnect.html</link></para>
+      <para id="id1171170869636"> 18thConnect, sponsored by NINES, began as an attempt to forestall severe degradation of information as the archive became digitized. But that has now changed. 18thConnect received an NEH-sponsored grant for supercomputer time and has conferred via NINES-sponsored meetings with other collaborative teams working on the same problem (all named in the table below). Now it looks as if it will be possible to know more than we could ever have known before about Anglo-American history, literature, crime, biography, anything conveyed by texts that were printed before 1850. Here follows a brief summary of the state of affairs, what 18thConnect is doing, and what we hope is to come. At the end of this report follows a table of those people with whom we would like to work in creating the cleanest possible data set of perhaps as much as half a million eighteenth-century texts.</para>
+      <section id="id1171171670612">
+        <title>Current State of Affairs</title>
+        <para id="id1171170449860"> The Eighteenth-Century Collections Online database owned by Gale Cengage contains page-images of 140,000 texts ranging in size from a two-page pamphlet to the 1500-page <emphasis effect="italics">Clarissa</emphasis>. The Text Creation Partnership of the University of Michigan libraries has double-keyed 1,809 of these texts and then run out of money. The ESTC (English Short Title Catalogue) at the British Library and UC Riverside has given us their catalogue of 400,000 eighteenth-century texts. We have loaded their bibliography into a SOLR indexer. These records are being reviewed and corrected by the ESTC before being made public with the launch of 18thConnect, projected for July 2010. Those records overlap with the bibliographic records of ECCO texts. Benjamin Pauley is working with ESTC and Google Books and engaging eighteenth-century scholars to connect ESTC numbers and other relevant data to items available through Google Books. Shef Rogers and Miami University have been given the right to digitally produce Cambridge’s Bibliography of English Literature, another resource for bibliographic data. These data sets will be the first to be aggregated by 18thConnect. In plain terms, when one searches the site, one will have returned bibliographic data from ECCO, ESTC, Google Books, and the DBEL (Digital Bibliography of English Literature).</para>
+        <para id="id2985408"> The NINES system adopted by 18thConnect also allows for plain text searches, but it does not take in OCR that is under 99 percent correct, which means that both the Google and the ECCO plain text files cannot be ingested by our system.<footnote id="id1171184554590">NINES and 18thConnect share a SOLR index running a Lucene search engine.</footnote> Gale Cengage has given us permission to try to improve the OCR software and generate cleaner, searchable texts. They have given us this permission because the system we use allows one to search plain text without recreating any specific text. Like the NINES interface, the 18thConnect interface will return bibliographic data linked to the ECCO catalogue. Clicking on a link, users of 18thConnect who subscribe to ECCO will be able to go directly to the page images, but non-subscribers will be taken to a page encouraging their libraries to buy ECCO. Holding libraries are listed in the bibliographic data alone, so interlibrary loan is another possibility.</para>
+      </section>
+      <section id="id1171163536945">
+        <title>Work Currently Underway</title>
+        <para id="id8665712"> At McGill University, Ichiro Fujinaga created the Optical Character Recognition Program called Gamera for reading musical notes, optimizing it by creating libraries of images to search for specific to very short time periods in the history of musical notation. Johns Hopkins University released Gamera<footnote id="id1171170395660"><link url="http://gamera.informatik.hsnr.de/addons/ocr4gamera/index.html">http://gamera.informatik.hsnr.de/addons/ocr4gamera/index.html</link></footnote> in the hope that domain experts would customize it for their specific data sets in order to increase its power. Only one group had created the libraries necessary to convert from image recognition to text, however, and we were unable to contact that group.<footnote id="id1171185097093">Reddy, Sravana and Crane, Gregory, “A Document Recognition System for Early Modern Latin,”<link url="http://dhcs2006.uchicago.edu/abstracts/reddy.pdf">http://dhcs2006.uchicago.edu/abstracts/reddy.pdf</link></footnote> Jennifer Lieberman, graduate student in English at Illinois, created the library that allows Gamera to output plain text files, loading in fonts specific to the eighteenth century in order to train its image reader. Now Mike Behrens at Illinois is using JuXta, a collation tool developed by NINES, in order to compare the double-keyed texts donated as a test set by the Text Creation Partnership to the plain-text output of Gamera. They will find and correct Gamera’s weaknesses, and will then run the full 140,000 .pdf files donated (with specific usage constraints) by Gale Cengage, producing plain-text versions of them by December 2010.</para>
+        <para id="id1171167154161"> As an offshoot of the MONK project, Katrina Fenlon, a recent graduate of GSLIS, working under the supervision of Tim Cole and Martin Mueller, designed a proof-of-concept tool for turning the "white-space XML" output of OCR (in this case ABBYY Fine reader) into TEI P5 with very limited human intervention.<emphasis effect="italics"/>Jennifer Lieberman is contacting Katrina Fenlon and Tim Cole so that we can get Gamera to produce the same output. This output makes it possible for the texts to be fed into MorphAdorner, released in 2009, a tool built by Phil Burns at Northwestern. MorphAdorner is a highly customizable Natural Language Processing tool kit with special capabilities for the virtual orthographic standardization, lemmatization, and morphosyntactic tagging of written English between 1500 and 1800. I believe that MorphAdorner can be trained to automatically correct 80 percent of the errors found by looking words up in a period-specific dictionary. Martin Mueller and Craig Berry have developed Annolex, a collaborative data curation tool that can be used for the remaining 20 percent of errors. Annolex allows people to hand correct text by giving unresolved words and their context, and then allowing each editorial intervention to be submitted to an editor overseeing the work. 18thConnect can provide a) that editorial supervision and b) letters from an illustrious editorial board about any particular scholar’s work in correcting bibliographic and textual data. </para>
+        <para id="id1171170886468"> 18thConnect would like to ask ASECS and the NACBS to issue a “My18thConnect” page, based on the MyNINES page, that will bring eighteenth-century specialists into the business of text correction. 18thConnect will allow all members of ASECS and NACBS to search the texts we have generated, texts that will be in the 99 percent clean range (per Peter Bajcsy), but only those members whose institutions subscribe will get access to the whole texts corresponding to the bibliographic data that is returned by their full-text search. Mellon is beginning to negotiate with Gale, Readex, and Proquest to let all eightenth-century scholars have access to all those texts, regardless of whether their institutions subscribe. But in the meantime, 18thConnect can enlist those scholars in correcting the OCR via the Annolex interface. As a reward to those scholars—in addition to letters by a board of respected scholars describing their work—we hope to negotiate with Gale so that 18thConnect can provide those who perform such corrections access to the full-text images of the text they have corrected and the opportunity to use the plain text files of such a text to create a digital scholarly edition, under the guidance of 18thConnect. All the enriched data can go back to Gale Cengage in return, but it will also go forward into a data-mining system structured by the Meandre workbench (SEASR) and minimally TEI-encoded using TEI-A (analytics) developed by Brian Pytlik Zillig of Nebraska Center for Digital Humanities for the MONK project. On the My18thConnect page, users will be able to perform data-mining as well and keep their results whether they can get access to the full texts or not. </para>
+        <para id="id1171178334198">
+          <emphasis effect="bold">Table of those whom we would like to involve in development and use, their interactions coordinated by the 18thConnect Office at Miami</emphasis>
+        </para>
+        <table id="id3953198" summary="">
+          <tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry>Person</entry>
+                <entry>Organization</entry>
+                <entry>Institution</entry>
+                <entry>Interest / Skill</entry>
+              </row>
+              <row>
+                <entry>Martin MuellerPhil BurnsCraig Berry</entry>
+                <entry>The Book of English, Project 2015</entry>
+                <entry>NorthwesternUniv.</entry>
+                <entry>Morphadorner, NUPOS, Annolex</entry>
+              </row>
+              <row>
+                <entry>Jerome McGannAndy StaufferLaura Mandell</entry>
+                <entry>NINES / 18<sup>th</sup>-Connect</entry>
+                <entry>Univ. of Virginia, Miami Univ. of Ohio</entry>
+                <entry>SOLR Index, Peer Review, JuXta</entry>
+              </row>
+              <row>
+                <entry>Brian GeigerMoira Goff</entry>
+                <entry>ESTC (English Short Title Catalogue)</entry>
+                <entry>UC Riverside, British Library</entry>
+                <entry>Moira Goff of the British Library office has given 18thConnect 400,000 bibliographic records spanning the 18<sup>th</sup> century. Brian heads the UC Riverside Office which is working on 18-century newspapers that could make use of this workflow process.</entry>
+              </row>
+              <row>
+                <entry>Aaron McColloughPaul Schaffner</entry>
+                <entry>TCP</entry>
+                <entry>Univ. of Michigan</entry>
+                <entry>Keying, post-processing, and encoding texts in ECCO and EEBO</entry>
+              </row>
+              <row>
+                <entry>Brian Pytlik Zillig</entry>
+                <entry>Center for Digital Humanities</entry>
+                <entry>Univ. of Nebraska, Lincoln</entry>
+                <entry>Automated TEI-A tagging</entry>
+              </row>
+              <row>
+                <entry>Peter ReillDino Felluga</entry>
+                <entry>ASECS andNAVSA</entry>
+                <entry>UCLA</entry>
+                <entry>Interests of scholar-users</entry>
+              </row>
+              <row>
+                <entry>Tim ColeKatrina Fenlon</entry>
+                <entry>UIUC Libraries</entry>
+                <entry>Univ. of Illinois at Urbana-Champaign</entry>
+                <entry>XSLT transforming plain text to white-space XML</entry>
+              </row>
+              <row>
+                <entry>Peter BajscyAlan Craig</entry>
+                <entry>NCSA </entry>
+                <entry>UIUC</entry>
+                <entry>Image and supercomputer expertise</entry>
+              </row>
+              <row>
+                <entry>Marshall Scott Poole,Kevin Franklin</entry>
+                <entry>I-CHASS</entry>
+                <entry>UIUC</entry>
+                <entry>Awarded Supercomputer-time grant via NEH</entry>
+              </row>
+              <row>
+                <entry>John Unsworth</entry>
+                <entry>Dean, Graduate School of Library and Information Science, Director Illinois Informatics Institute</entry>
+                <entry>UIUC</entry>
+                <entry>Experience in all areas, and MONK</entry>
+              </row>
+              <row>
+                <entry>
+                  <emphasis>Mike Behrens</emphasis>
+                  <emphasis>Michael Simeone</emphasis>
+                  <emphasis>Jenni Lieberman</emphasis>
+                </entry>
+                <entry>18thConnect Development Team</entry>
+                <entry>UIUC Dept. of English</entry>
+                <entry>Gamera development and 18thConnect interface development (for Annolex and Meandre)</entry>
+              </row>
+              <row>
+                <entry><emphasis>Loretta</emphasis> Auvil <emphasis>Bernie</emphasis> Ács</entry>
+                <entry>SEASR</entry>
+                <entry>UIUC</entry>
+                <entry>Meandre Workbench data mining tools</entry>
+              </row>
+              <row>
+                <entry>
+                  <emphasis>Scott Dawson</emphasis>
+                  <emphasis>Ray Bankoski</emphasis>
+                </entry>
+                <entry>Gale-Cengage</entry>
+                <entry>Gale-Cengage</entry>
+                <entry>ECCO and the Burney Newspaper Collection</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+        <table id="id1171162695629" summary="">
+          <tgroup cols="4">
+            <colspec colnum="1" colname="c1"/>
+            <colspec colnum="2" colname="c2"/>
+            <colspec colnum="3" colname="c3"/>
+            <colspec colnum="4" colname="c4"/>
+            <tbody>
+              <row>
+                <entry>Laurent Romary</entry>
+                <entry>INRIA Research Director,Chairman of Scientific Board TEI,Researcher CNRS</entry>
+                <entry>institut national de recherche en informatique et en automatique(France), TEI, Centre national de la recherche scientifique, and the ISO</entry>
+                <entry>Developer for the ISO standard Morphosyntactic Annotation Framework (ISO 24611)</entry>
+              </row>
+              <row>
+                <entry>Ichiro Fujinaga</entry>
+                <entry>Associate Professor Music Technology and recipient Digging into Data Challenge Grant</entry>
+                <entry>McGill University</entry>
+                <entry>Creator of Gamera</entry>
+              </row>
+              <row>
+                <entry>Stefan SinclairGeof RockwellSusan Brown</entry>
+                <entry>Voyeur andJitter [tool name imprecise]</entry>
+                <entry>McMaster and Univ. of Alberta</entry>
+                <entry>Data-mining and tool using windows; interoperability with all web resources</entry>
+              </row>
+              <row>
+                <entry>Heike Neuroth</entry>
+                <entry>TextGrid</entry>
+                <entry>head of digital research at the State University Library in Göttingen</entry>
+                <entry>Creators of a similar workflow process in Germany (includes texts from Georgian England)</entry>
+              </row>
+              <row>
+                <entry>James MussellGerhard Brey</entry>
+                <entry>NCSE (Nineteenth Century Serials Edition) and CCH</entry>
+                <entry>Birmingham Univ. / King’s College London</entry>
+                <entry>Early nineteenth-century periodicals; algorithms for name extraction</entry>
+              </row>
+              <row>
+                <entry>Robert ShoemakerTim Hitchcock</entry>
+                <entry>Connected Histories / London Lives / Old Bailey Online</entry>
+                <entry>Univ. of Sheffield, Univ. of Hertfordshire</entry>
+                <entry>Historians working in 18<sup>th</sup> Century; winners of Digging Into Data Challenge Grant </entry>
+              </row>
+              <row>
+                <entry>Dan EdelsteinChris Weaver</entry>
+                <entry>The Republic of Letters</entry>
+                <entry>Stanford Univ., Univ. of Oklahoma</entry>
+                <entry>Winners of the Digging Into Data Challenge grant to digitize 53,000 18th-century letters</entry>
+              </row>
+              <row>
+                <entry>Mary Sauer-GamesJo-Anne Hogan</entry>
+                <entry>Proquest </entry>
+                <entry>Proquest / Chadwyck Healey</entry>
+                <entry>Proprietary catalogs and full text</entry>
+              </row>
+              <row>
+                <entry>William Pidduck</entry>
+                <entry>Adam Matthew</entry>
+                <entry>Adam Matthew Digital Imprint</entry>
+                <entry>Proprietary catalogs and full text</entry>
+              </row>
+              <row>
+                <entry>???</entry>
+                <entry>Readex</entry>
+                <entry>Evans</entry>
+                <entry>Proprietary catalogs and full text</entry>
+              </row>
+            </tbody>
+          </tgroup>
+        </table>
+      </section>
+    </section>
+
+
+
+  </content>
+</document>

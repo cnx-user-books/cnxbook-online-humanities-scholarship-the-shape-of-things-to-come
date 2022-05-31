@@ -1,0 +1,29 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Integrating Digital Papyrology</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34320</md:content-id>
+  <md:title>Integrating Digital Papyrology</md:title>
+  <md:abstract/>
+  <md:uuid>ab216c81-e5b5-4e3d-8add-df7d9c4bda26</md:uuid>
+</metadata>
+
+<content>
+<para id="buybutton-para"><media id="buybutton" alt="The Shape of Things to Come -- buy from Rice University Press.">
+		  <image mime-type="image/jpeg" src="http://rup.rice.edu/image/cnx_images/shapes-buybutton.jpg">
+		  <param name="style" value="padding: 0px; margin-left: 5px; border: solid; border-width:1px; border-color:#002469; float: right; cursor: pointer;"/>
+		<param name="onclick" value="window.open('http://my.qoop.com/store/Rice-University-Press-3111075350609104/Online-Humanities-Scholarship--The-Shape-of-Things-to-Come-by-Jerome-McGann--Ed--76713766116506/','','');"/>
+	<param name="onmouseover" value="document.body.style.cursor = 'hand';"/> 
+	<param name="onmouseout" value="document.body.style.cursor = 'default';"/>
+</image>
+
+	  </media>
+</para>
+
+
+    <section id="id1167591529673">
+      <title>Abstract of Roger Bagnall, “Integrating Digital Papyrology”</title>
+      <para id="id1921326">Working against the silo-effect that has emerged with online scholarly projects, <emphasis effect="italics">Integrating Digital Papyrology</emphasis> has been developing a federated system of several papyrological resources that had originally been working independently. This emerging and open-access peer-reviewed environment in papyrology is being developed with the ultimate goal of making accessible “the entire ancient Greek and Latin documentary corpus in open form,” with “extensive interlinkage, interoperation, and openness to remixing by users.” Peer review and quality control of the data is maintained by a “consortial model” that “leverage[s] both traditional peer review and newer community-based 'crowd-sourcing' models.”</para>
+      <para id="id1167602293428"> “The components of sustainability [should be] a product people want, a functional governance structure, and a workable financial model.” “Time will tell” if these materials are what is wanted. The basic governance structure of the APIS scholarly collective has been successfully established. As to funding, this has to be borne in a collective approach that replicates the collective approach that has been taken toward the creation of the scholarly “content.” A silo-approach is not only impoverished from the scholar-user’s point of view, it is financially the least sustainable. Issues of “content creation” and “technological infrastructure” will be most usefully addressed as issues of “community maintenance.” Consequently, “the future of papyrological projects lies in transcending the limited scale of the discipline and its separateness” in order to integrate papyrology with “the entire ancient Greek and Latin documentary corpus.” Thus it will turn out that “the economics of sustainability will . . . lead to better scholarship, not merely cheaper scholarship.” [The complete text of Roger Bagnall’s essay can be freely accessed at <link url="http://hdl.handle.net/2451/29592">http://hdl.handle.net/2451/29592</link>] </para>
+    </section>
+  </content>
+</document>

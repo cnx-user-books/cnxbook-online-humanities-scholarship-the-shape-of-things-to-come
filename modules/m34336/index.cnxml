@@ -1,0 +1,89 @@
+<document xmlns="http://cnx.rice.edu/cnxml">
+  <title>Underpinnings of the Social Edition Appendix 1</title>
+<metadata xmlns:md="http://cnx.rice.edu/mdml">
+  <md:content-id>m34336</md:content-id>
+  <md:title>Underpinnings of the Social Edition Appendix 1</md:title>
+  <md:abstract/>
+  <md:uuid>8f04e891-1aab-4b4a-9155-5e10d5dbc569</md:uuid>
+</metadata>
+
+<content>
+<para id="buybutton-para"><media id="buybutton" alt="The Shape of Things to Come -- buy from Rice University Press.">
+		  <image mime-type="image/jpeg" src="http://rup.rice.edu/image/cnx_images/shapes-buybutton.jpg">
+		  <param name="style" value="padding: 0px; margin-left: 5px; border: solid; border-width:1px; border-color:#002469; float: right; cursor: pointer;"/>
+		<param name="onclick" value="window.open('http://my.qoop.com/store/Rice-University-Press-3111075350609104/Online-Humanities-Scholarship--The-Shape-of-Things-to-Come-by-Jerome-McGann--Ed--76713766116506/','','');"/>
+	<param name="onmouseover" value="document.body.style.cursor = 'hand';"/> 
+	<param name="onmouseout" value="document.body.style.cursor = 'default';"/>
+</image>
+
+	  </media>
+</para>
+
+
+    <section id="id1171178132769">
+      <title>Appendix 1: Addresses and Presentations</title>
+      <para id="id1171183806821">This article cumulates and builds upon a series of addresses and presentations given during the developmental steps and stages, outlined below. We wish to thank the organizers of the various conferences and lectures for the valuable opportunity to present on our ongoing research, and all present for their feedback.</para>
+      <section id="id3078417">
+        <title>2003</title>
+        <para id="id1171160330077">Siemens, Ray. “The Dynamic Textual Edition: Underpinnings and Above.” Distinguished Speaker Series. Maryland Institute for the Humanities, U of Maryland. 20 Feb. 2003. Address.</para>
+        <para id="id1642947">——. “Humanities Computing and the Scholarship of Integration: Modelling Disciplinary Interaction in Literary Studies through Humanities Computing.” Research Showcase. Malaspina U-C, Nanaimo. 17 Apr. 2003. Address.</para>
+        <para id="id1171171247870">——. “Toward a Computing Environment for the Literary Studies Reader.” Invited Lecture. Sheffield Hallam U, Sheffield. 17 Oct. 2003. Address.</para>
+        <para id="id1171165233987">——. “Imagining the Printed Book in an Electronic Age.” Lansdowne Lecture in Humanities Computing. U of Victoria, Victoria. 16 Nov. 2003. Address.</para>
+        <para id="id1171157249806">——. “Algorithm and Interface in the Electronic Scholarly Edition.” Theorizing the Interface. MLA Annual Convention. Manchester Grand Hyatt, San Diego. 29 Dec. 2003. Address.</para>
+        <para id="id1171167141247">——, and William R. Bowen. “The Role of Text Analysis in the Creation of a Knowledge Base: Preliminary Thoughts on the Future of Iter: Gateway to the Middle Ages and Renaissance.” CaSTA: The Canadian Symposium on Text Analysis Research. U of Victoria, Victoria. 14 Nov. 2003. Address.</para>
+      </section>
+      <section id="id2609024">
+        <title>2004</title>
+        <para id="id1171163761364">Siemens, Ray. “Pragmatic Notes Toward a Dynamic Scholarly Edition.” Seminar Series. Centre for Computational Studies, U of Kentucky. 16 Sep. 2004. Address.</para>
+        <para id="id1171158779621">——. “Modelling Humanistic Activity in the Electronic Scholarly Edition.” (The Face of Text, CaSTA: The Third Canadian Symposium on Text Analysis Research, McMaster U. 21 Nov. 2004. Address.</para>
+        <para id="id1171166587741">——. "Access to Knowledge." Technology, Culture, Aesthetics: Hypermedia and the Changing Nature of Knowledge. New Media and Culture Network Workshop Series. U of British Columbia, Vancouver. 6 May 2004. Address.</para>
+        <para id="id1171179640147">——, Elaine Toms, Geoffrey Rockwell, Stéfan Sinclair, and Lynne Siemens. “The Humanities Scholar in the Twenty-First Century: How Research is Done and What Support is Needed.” ALLC/ACH Joint International Conference. Göteborgs U, Göteborg. 16 Jun. 2004. Address.</para>
+        <para id="id1171165115773">——, Elaine Toms, Geoffrey Rockwell, Stéfan Sinclair, and Lynne Siemens. "Modelling the Humanities Scholar at Work." The Face of Text. CaSTA: Canadian Symposium on Text Analysis Research. McMaster U, Hamilton. 19 Nov. 2004. Address.</para>
+      </section>
+      <section id="id1171178349902">
+        <title>2005</title>
+        <para id="id1171173134995">Siemens, Ray. "Imagining the Printed Book and Manuscript in an Electronic Age." Form and Functionality: Human-Computer Interface and Interaction Issues for the Electronic Book. Annual Meeting of the Consortium for Computers in the Humanities (COCH-COSH), Congress of the Canadian Federation of Humanities and Social Sciences. U of Western Ontario, London. 30 May 2005. Address.</para>
+        <para id="id1171160833362">——. “Humanities Computing and the Modeling of Humanistic Activity.” Invited Lecture. Sheffield Hallam U, Sheffield. 9 Sep. 2005. Address.</para>
+        <para id="id1171165234559">——. “Electronic Scholarly Editions and Models of Humanistic Activity.” Summit on Digital Tools for the Humanities. U of Virginia, Charlottesville. 28 Sep. 2005. Address.</para>
+        <para id="id1171157858339">——, and Chris Gaudet. “A Knowledgebase Toward an Electronic Edition of Shakespeare’s Sonnets.” CaSTA 2005: The Fourth Canadian Symposium on Text Analysis Research. U of Alberta, Edmonton. 4 Oct. 2005. Address.</para>
+        <para id="id9129616"/>
+      </section>
+      <section id="id1171166978029">
+        <title>2006</title>
+        <para id="id4792209">Siemens, Ray. “Modelling the &lt;Textual&gt; Activity of the Humanist." The Computer: The Once and Future Medium for the Humanities and Social Sciences (CFHSS, CCHC, SDH-SEMI). York U, Toronto. 30 May 2006. Address.</para>
+        <para id="id5858755">——. “The Renaissance English Knowledgebase (REKn) and its Professional Reading Environment (PReE): An Overview.” Teaching Digital Texts, English Subject Centre/Methods Network. King’s College, London. 16 Jul. 2006. Address.</para>
+        <para id="id1171186254635">——. “Knowledge Management and Textual Cultures? Work toward the Renaissance English Knowledgebase (REKn) and its Professional Reading Environment (PrRE).” CASTA 2006: The Breadth of Text. U of New Brunswick, Fredericton. 14 Oct. 2006. Address.</para>
+        <para id="id1171180215143">——. “Modelling Scholarly Practices with a Renaissance English Knowledgebase.” Contexts for Electronic Editing, MLA Annual Meeting. Philadelphia Marriot, Philadelphia. 30 Dec. 2006. Address.</para>
+        <para id="id1171182904116">——, Eric Haswell, Gerry Watson, Alastair McColl, and Karin Armstrong. “Integrating Tools into Professional Academic Processes: A First Look at the Renaissance English Knowledgebase (REKn).” Bringing Text Alive: The Future of Scholarship, Pedagogy, and Electronic Publication. Text Creation Partnership Conference. U of Michigan, Ann Arbor. 15 Sep. 2006. Address.</para>
+        <para id="id1171177045328">——, and Alastair McColl. "Learning Curves and Tempered Results: Toward a Renaissance English Knowledgebase (REKn)." What To Do with a Million Books Chicago Colloquium on Digital Humanities and Computer Science. U of Chicago, Chicago. 8 Nov. 2006. Address.</para>
+        <para id="id1171171230545">——, John Willinsky, and Analisa Blake. “Giving Them a Reason to Read Online: Reading Tools for Humanities Scholars.” Digital Humanities 2006. U Paris-Sorbonne, Paris. 8 Jul. 2006. Address.</para>
+      </section>
+      <section id="id1171177658303">
+        <title>2007</title>
+        <para id="id1171165936762">Bowen, William R., and Ray Siemens. "Iter as Knowledgebase." New Technologies and Renaissance Studies III: Catalogues of Knowledge, RSA Annual Meeting. The New Radisson Hotel, Miami. 23 Mar. 2007. Address.</para>
+        <para id="id1171169251993">Siemens, Ray "A Renaissance English Knowledgebase (REKn) in a Professional Reading Environment (PReE)." New Technologies and Renaissance Studies I: The Early Modern Codex in Contemporary Electronic Context, RSA Annual Meeting. The New Radisson Hotel, Miami. 23 Mar. 2007. Address.</para>
+        <para id="id1171158817680">——. "Prototyping a 'Knowledgebase' Approach to Online Materials, to Meet the Demands of Professional Readers in the Humanities." Digital Humanities: Practice, Methodology, Pedagogy. Centre for Studies in Print and Media Cultures Symposium. Simon Fraser U, Vancouver. 3 May 2007. Address.</para>
+        <para id="id1171184516731">——. "Modeling and Knowledge [Re]presentation: As a Context for the Contemporary Editor of Earlier Textual Materials." Round Table: Accessing, Organizing, and Analyzing Digital Evidence. Congress of the Canadian Federation of Humanities and Social Sciences. U of Saskatchewan, Saskatoon. 30 May 2007. Address.</para>
+        <para id="id1171171462250">——. "A Professional Reading Environment, Modeled for a Renaissance English Knowledgebase." Public Knowledge Project Scholarly Publication Conference. Simon Fraser U, Vancouver. 12 Jul. 2007. Address.</para>
+        <para id="id1171185484728">——. "Working with a Renaissance English Knowledgebase (REKn) in a Professional Reading Environment (PReE)." Early Renaissance Literature. IAUPE Trienniel Conference. Lunds U, Lund. 6 Aug. 2007. Address.</para>
+        <para id="id1171170835313">——. "A Knowledgebase Approach to Professional Reading." Models of Partnership in Digital Research Colloquium. Sheffield Hallam U, Sheffield. 3 Sep. 2007. Address.</para>
+        <para id="id1171168098460">——. "A Scholarly Reading Interface for a Renaissance English Knowledgebase." ACCESS 2007: TechTonic OnTologies. U of Victoria, Victoria. 11 Oct. 2007. Address.</para>
+        <para id="id1171165114149">——. “Prototyping a 'Knowledgebase' Approach to Texts and Secondary Resources in Renaissance Studies: The Renaissance English Knowledgebase (REKn) and Professional Reading Environment (PReE)." Renaissance English Text Society Josephine A. Roberts Forum, MLA Annual Meeting. Hyatt Regency, Chicago. 29 Dec. 2007. Address.</para>
+        <para id="id1171174116062">——, Mike Elkink, and Karin Armstrong. "Building One to Throw Away, Toward the One We'll Keep: Next Steps for the Renaissance English Knowledgebase and Professional Reading Environment." Chicago Colloquium on Digital Humanities. Northwestern U, Chicago. 22 Oct. 2007. Poster presentation.</para>
+      </section>
+      <section id="id1171176716957">
+        <title>2008</title>
+        <para id="id1171170702658">Leitch, Cara, Ray Siemens, James Dixon, Mike Elkink, Angelsea Saby, and Karin Armstrong. “Social Networking and Online Collaborative Research with REKn and PReE.” Society for Digital Humanities/Société pour l'étude des médias interactifs, Congress of the Canadian Federation of Humanities and Social Sciences. U of British Columbia, Vancouver. 3 Jun. 2008. Poster presentation.</para>
+        <para id="id1171161377901">——, Ray Siemens, James Dixon, Mike Elkink, Angelsea Saby, and Karin Armstrong. “Social Networking and Online Collaborative Research with REKn and PReE.” Digital Humanities 2008. U of Oulu, Oulu. 27 Jun. 2008. Poster presentation.</para>
+        <para id="id1171178828761">Siemens, Ray. “Consolidated Knowledge-bases and the Promise of Text Analysis in the Short Term, and Beyond: TAPoR, Synergies, CRKN.” Building Cyberinfrastructure for the Humanities. Society for Digital Humanities/Société pour l'étude des médias interactifs, Congress of the Canadian Federation of Humanities and Social Sciences. U of British Columbia, Vancouver. 2 Jun. 2008. Address.</para>
+        <para id="id2422328">——. “The Renaissance English Knowledgebase (REKn) Crawler for a Professional Reading Environment (PReE).” Society for Digital Humanities/Société pour l'étude des médias interactifs, Congress of the Canadian Federation of Humanities and Social Sciences. U of British Columbia, Vancouver. 3 Jun. 2008. Poster presentation.</para>
+        <para id="id1171168903989">——, Cara Leitch, Angelsea Saby, James Dixon, Mike Elkink, and Karin Armstrong. “Interface Design Principles for a Professional Reading Environment (PReE).” Society for Digital Humanities/Société pour l'étude des médias interactifs, Congress of the Canadian Federation of Humanities and Social Sciences. U of British Columbia, Vancouver. 2 Jun. 2008. Poster presentation.</para>
+        <para id="id1171167009071">——, Rachel Gold, James Dixon, and Karin Armstrong. “Generating Topic-Specific, Individual Knowledge-bases from Internet Resources: REKn/PReE Crawler for Professional Reading Environments.” CaSTA: Canadian Symposium on Text Analysis. U of Saskatchewan, Saskatoon. 29 Aug. 2008. Address.</para>
+      </section>
+      <section id="id2627037">
+        <title>2009</title>
+        <para id="id1171182364800">Hirsch, Brett D., and Ray Siemens. "Prototyping the Renaissance English Knowledgebase (REKn) and Professional Reading Environment (PReE): Past, Present, Futures." Society for Digital Humanities/Société pour l'étude des médias interactifs, Congress of the Canadian Federation of Humanities and Social Sciences. Carleton U, Ottawa. 27 May 2009. Address.</para>
+      </section>
+    </section>
+  </content>
+</document>
