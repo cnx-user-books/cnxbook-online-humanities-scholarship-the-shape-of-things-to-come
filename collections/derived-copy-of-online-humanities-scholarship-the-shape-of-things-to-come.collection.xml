@@ -1,194 +1,48 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Book">
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Book" authors="Jerome McGann">
   <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
-  <md:content-id>col24317</md:content-id>
-  <md:title>Derived copy of Online Humanities Scholarship: The Shape of Things to Come</md:title>
-  
-  
-  <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
-  <md:language>en</md:language>
-
-  
-
-  
-  <md:uuid>1b0455a2-794f-4360-aade-9e4fd2123b69</md:uuid>
-<md:slug>derived-copy-of-online-humanities-scholarship-the-shape-of-things-to-come</md:slug>
-</metadata>
-
+    <md:content-id>col24317</md:content-id>
+    <md:title>Derived copy of Online Humanities Scholarship: The Shape of Things to Come</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/4.0/">Creative Commons Attribution License 4.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>1b0455a2-794f-4360-aade-9e4fd2123b69</md:uuid>
+    <md:slug>derived-copy-of-online-humanities-scholarship-the-shape-of-things-to-come</md:slug>
+  </metadata>
   <col:content>
-    
-      <col:module document="m34305"/>
-        
-      
-    
-    
-      <col:module document="m34328"/>
-        
-      
-    
-    
-      <col:module document="m34313"/>
-        
-      
-    
-    
-      <col:module document="m34334"/>
-        
-      
-    
-    
-      <col:module document="m34323"/>
-        
-      
-    
-    
-      <col:module document="m34322"/>
-        
-      
-    
-    
-      <col:module document="m34314"/>
-        
-      
-    
-    
-      <col:module document="m34317"/>
-        
-      
-    
-    
-      <col:module document="m34324"/>
-        
-      
-    
-    
-      <col:module document="m34320"/>
-        
-      
-    
-    
-      <col:module document="m34316"/>
-        
-      
-    
-    
-      <col:module document="m34325"/>
-        
-      
-    
-    
-      <col:module document="m34331"/>
-        
-      
-    
-    
-      <col:module document="m34341"/>
-        
-      
-    
-    
-      <col:module document="m34332"/>
-        
-      
-    
-    
-      <col:module document="m34308"/>
-        
-      
-    
-    
-      <col:module document="m34318"/>
-        
-      
-    
-    
-      <col:module document="m34329"/>
-        
-      
-    
-    
-      <col:module document="m34319"/>
-        
-      
-    
-    
-      <col:module document="m34306"/>
-        
-      
-    
-    
-      <col:module document="m34333"/>
-        
-      
-    
-    
-      <col:module document="m34321"/>
-        
-      
-    
-    
-      <col:module document="m34326"/>
-        
-      
-    
-    
-      <col:module document="m34309"/>
-        
-      
-    
-    
-      <col:module document="m34310"/>
-        
-      
-    
-    
-      <col:module document="m34304"/>
-        
-      
-    
-    
-      <col:module document="m34335"/>
-        
-      
-    
-    
-      <col:module document="m34336"/>
-        
-      
-    
-    
-      <col:module document="m34337"/>
-        
-      
-    
-    
-      <col:module document="m34338"/>
-        
-      
-    
-    
-      <col:module document="m34315"/>
-        
-      
-    
-    
-      <col:module document="m34307"/>
-        
-      
-    
-    
-      <col:module document="m34327"/>
-        
-      
-    
-    
-      <col:module document="m34363"/>
-        
-      
-    
-    
-      <col:module document="m34364"/>
-        
-      
-    
+    <col:module document="m34305"/>
+    <col:module document="m34328"/>
+    <col:module document="m34313"/>
+    <col:module document="m34334"/>
+    <col:module document="m34323"/>
+    <col:module document="m34322"/>
+    <col:module document="m34314"/>
+    <col:module document="m34317"/>
+    <col:module document="m34324"/>
+    <col:module document="m34320"/>
+    <col:module document="m34316"/>
+    <col:module document="m34325"/>
+    <col:module document="m34331"/>
+    <col:module document="m34341"/>
+    <col:module document="m34332"/>
+    <col:module document="m34308"/>
+    <col:module document="m34318"/>
+    <col:module document="m34329"/>
+    <col:module document="m34319"/>
+    <col:module document="m34306"/>
+    <col:module document="m34333"/>
+    <col:module document="m34321"/>
+    <col:module document="m34326"/>
+    <col:module document="m34309"/>
+    <col:module document="m34310"/>
+    <col:module document="m34304"/>
+    <col:module document="m34335"/>
+    <col:module document="m34336"/>
+    <col:module document="m34337"/>
+    <col:module document="m34338"/>
+    <col:module document="m34315"/>
+    <col:module document="m34307"/>
+    <col:module document="m34327"/>
+    <col:module document="m34363"/>
+    <col:module document="m34364"/>
   </col:content>
 </col:collection>
